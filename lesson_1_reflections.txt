@@ -1,0 +1,5 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Ao comparar as diferenças entre arquivos e sabendo o estado de cada um deles, podemos perceber facilmente onde está um bug a partir da análise das diferentes sintaxes entre eles.
+
+
