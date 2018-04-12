@@ -12,6 +12,9 @@ The staging area is an intermediate repository between the workging directory an
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By just staging files that have the same logical deppendency, commiting them and repeating this process each time a logical change has been made.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
