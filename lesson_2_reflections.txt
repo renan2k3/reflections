@@ -18,6 +18,10 @@ By just staging files that have the same logical deppendency, commiting them and
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Some situations when branches would be useful are fixing bugs, creating new features, experiencing new things and all other major change to the original branch that won't be applicable immediatly.
+Branches help us to organize the groups of major changes to the application.
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
