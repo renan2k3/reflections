@@ -24,6 +24,9 @@ Branches help us to organize the groups of major changes to the application.
 
 How do the diagrams help you visualize the branch structure?
 
+The diagrams are a graphic solution for reading both the brand history and structure, therefore we can easily undestand wich, where and when are the connections between the branches.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
