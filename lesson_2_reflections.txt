@@ -35,3 +35,5 @@ Merging two branches together creates a new commit that has the combination of a
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Git has a powerful tool to make merging a easy task, but it can't resolve some conflicts when both versions has modifications on the same part of a file. In this case, we need to manually resolve the conflict and merge it after.
