@@ -30,5 +30,8 @@ The diagrams are a graphic solution for reading both the brand history and struc
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches together creates a new commit that has the combination of all those branches by the time it is done and preserves all the history. The representation in the diagram as the way it is, shows us the time-line and structure of all the repositories participant in the merges of current branch.
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
